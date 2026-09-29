@@ -1,0 +1,3 @@
+SENDER_EMAIL = "your_email@gmail.com"
+APP_PASSWORD = "your_gmail_app_password"
+SUBJECT = "Automated mail for Python."

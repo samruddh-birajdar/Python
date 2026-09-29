@@ -1,0 +1,5 @@
+config.py
+receivers.csv
+__pycache__/
+*.pyc
+
