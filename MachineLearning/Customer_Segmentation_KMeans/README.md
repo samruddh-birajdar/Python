@@ -56,6 +56,13 @@ It also generates `customer_segments.csv`, which contains the assigned cluster l
 K-Means groups observations into a specified number of clusters by iteratively assigning data points to clusters and updating their centroids.
 
 The Elbow Method plots Within-Cluster Sum of Squares (WCSS) against the number of clusters to help assess a suitable value of K.
+## Elbow Method
+
+![Elbow Method](ElbowMethod.png)
+
+## Customer Segmentation Results
+
+![Customer Segmentation using K-Means](KMeans.png)
 
 ## Author
 
